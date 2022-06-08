@@ -2,7 +2,7 @@
  
     box-sizing: border-box;
     margin: 0;
-    padding:0;
+    padding: 0;
 
 }
 
@@ -37,7 +37,8 @@ p{
 .container{
 
     width: 100%;
-    background-color: grey;   
+    background-color: grey;
+    border: 1px solid black; 
 }
 
 .title{
