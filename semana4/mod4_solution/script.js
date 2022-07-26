@@ -66,4 +66,4 @@ WARNING!!! WARNING!!!
   }
 
 
-})(window);
+})(window);//this "window" parameter is not needed, I just need the () for the IIFE (Immediatly Invoked Function Expression) to execute. I don't need to retrieve any variable/fuction/obj Literal/etc... from this function, thus not needing the "window" paramater..
